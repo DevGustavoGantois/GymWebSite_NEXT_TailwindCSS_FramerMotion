@@ -1,5 +1,3 @@
-<a href="">Clique aqui para ter acesso ao deploy</a>
-
 <h1>Gym Website</h1>
 
 <p>Este projeto foi desenvolvido com as tecnologias:</p>
