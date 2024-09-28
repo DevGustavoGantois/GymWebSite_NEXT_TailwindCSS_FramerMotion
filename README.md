@@ -1,3 +1,5 @@
+<a href="https://gym-web-site-next-tailwind-css-framer-motion.vercel.app/">Clique aqui para ter acesso ao deploy</a>
+
 <a href="https://www.linkedin.com/posts/gustavo-gantois-2839b5168_dev-frontend-estudos-activity-7245596300295979009-yRi4?utm_source=share&utm_medium=member_desktop">Veja está publicação no meu linkedin!</a>
 
 <h1>Gym Website</h1>
@@ -19,6 +21,8 @@
 
 
 <h1>ING</h1>
+
+<a href="https://gym-web-site-next-tailwind-css-framer-motion.vercel.app/">Click here to access the deploy</a>
 
 <a href="https://www.linkedin.com/posts/gustavo-gantois-2839b5168_dev-frontend-estudos-activity-7245596300295979009-yRi4?utm_source=share&utm_medium=member_desktop">See this post on my LinkedIn!!</a>
 
