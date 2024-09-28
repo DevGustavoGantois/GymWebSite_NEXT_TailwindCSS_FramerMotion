@@ -25,7 +25,7 @@ export function MobileNav({containerStyles}: {containerStyles: string}) {
         <nav className={`${containerStyles}`}>
             {links.map((link, index) => {
                 return (
-                    <ScrollLink offset={link.offset} to={link.target} smooth spy activeClass={`${!isMobile && 'active'}`} className="cursor-pointer hover:text-accent transition-all">
+                    <ScrollLink offset={link.offset} to={link.target} smooth spy activeClass={`${!isMobile && 'active'}`} className="cursor-pointer hover:text-accent transition-all" key={index}>
                         {link.name}
                     </ScrollLink>
                 )
